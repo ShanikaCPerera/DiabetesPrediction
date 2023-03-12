@@ -1,2 +1,3 @@
-# MainRepo
-Min Repository
+# DataMiningClassAssignments
+Data Minung Class Assignments
+A repository of Assignments covered in Data Mining Class in Fall 2022 at SHSU, USA.
